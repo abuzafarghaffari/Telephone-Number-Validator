@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+
+    border: 2px solid white;
+    border-radius: 25px;
+    padding: 2rem;
+    box-shadow: 2px 2px 17px 13px rgb(143, 140, 140),-2px -2px 2px  rgb(143, 140, 140);
+    background-color: #fff;
+}
+button{
+    margin-top: 7px;
+    position: relative;
+    left:50%;
+
+}
